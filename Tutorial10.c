@@ -59,3 +59,5 @@ printf ( "Wrong Input" ) ;  }
 
 return 0; 
 }
+
+// This is taught by harry in 10th video of this tutorial. In this tutorial he taught if else statements.
